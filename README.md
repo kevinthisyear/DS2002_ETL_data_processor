@@ -1,4 +1,5 @@
 # Data Processor
+## Jaelyn Do and Kevin Lam
 
 A simple tool to load, process, and export data from CSV, JSON, or the Disease.sh API.
 
