@@ -5,7 +5,7 @@ A simple tool to load, process, and export data from CSV, JSON, or the Disease.s
 ## Usage
 
 ### 1. Run the Script:
-    '''bash
+    
     python ETL.py
 
 ### 2. Select Data Source:
